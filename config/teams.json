@@ -1,0 +1,269 @@
+{
+  "_help": "Edit born_day, life_path, pinnacle (1-9, 11, 22, 33) or animal (Rat, Ox, Tiger, Cat, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig). Changes apply on the next refresh. 'aliases' maps abbreviations used in the nflverse data file to the keys below.",
+  "aliases": {
+    "LA": "LAR",
+    "STL": "LAR",
+    "SD": "LAC",
+    "OAK": "LV",
+    "WSH": "WAS",
+    "JAC": "JAX"
+  },
+  "teams": {
+    "ARI": {
+      "name": "Cardinals",
+      "city": "Arizona",
+      "born_day": 8,
+      "life_path": 7,
+      "pinnacle": 4,
+      "animal": "Dog"
+    },
+    "ATL": {
+      "name": "Falcons",
+      "city": "Atlanta",
+      "born_day": 3,
+      "life_path": 3,
+      "pinnacle": 9,
+      "animal": "Snake"
+    },
+    "BAL": {
+      "name": "Ravens",
+      "city": "Baltimore",
+      "born_day": 9,
+      "life_path": 9,
+      "pinnacle": 7,
+      "animal": "Pig"
+    },
+    "BUF": {
+      "name": "Bills",
+      "city": "Buffalo",
+      "born_day": 1,
+      "life_path": 8,
+      "pinnacle": 7,
+      "animal": "Pig"
+    },
+    "CAR": {
+      "name": "Panthers",
+      "city": "Carolina",
+      "born_day": 8,
+      "life_path": 4,
+      "pinnacle": 3,
+      "animal": "Rooster"
+    },
+    "CHI": {
+      "name": "Bears",
+      "city": "Chicago",
+      "born_day": 8,
+      "life_path": 11,
+      "pinnacle": 3,
+      "animal": "Monkey"
+    },
+    "CIN": {
+      "name": "Bengals",
+      "city": "Cincinnati",
+      "born_day": 5,
+      "life_path": 6,
+      "pinnacle": 1,
+      "animal": "Goat"
+    },
+    "CLE": {
+      "name": "Browns",
+      "city": "Cleveland",
+      "born_day": 4,
+      "life_path": 1,
+      "pinnacle": 6,
+      "animal": "Monkey"
+    },
+    "DAL": {
+      "name": "Cowboys",
+      "city": "Dallas",
+      "born_day": 1,
+      "life_path": 9,
+      "pinnacle": 8,
+      "animal": "Rat"
+    },
+    "DEN": {
+      "name": "Broncos",
+      "city": "Denver",
+      "born_day": 5,
+      "life_path": 1,
+      "pinnacle": 5,
+      "animal": "Pig"
+    },
+    "DET": {
+      "name": "Lions",
+      "city": "Detroit",
+      "born_day": 3,
+      "life_path": 5,
+      "pinnacle": 11,
+      "animal": "Horse"
+    },
+    "GB": {
+      "name": "Packers",
+      "city": "Green Bay",
+      "born_day": 11,
+      "life_path": 3,
+      "pinnacle": 1,
+      "animal": "Goat"
+    },
+    "HOU": {
+      "name": "Texans",
+      "city": "Houston",
+      "born_day": 6,
+      "life_path": 8,
+      "pinnacle": 7,
+      "animal": "Cat"
+    },
+    "IND": {
+      "name": "Colts",
+      "city": "Indianapolis",
+      "born_day": 11,
+      "life_path": 9,
+      "pinnacle": 33,
+      "animal": "Rat"
+    },
+    "JAX": {
+      "name": "Jaguars",
+      "city": "Jacksonville",
+      "born_day": 3,
+      "life_path": 9,
+      "pinnacle": 7,
+      "animal": "Rooster"
+    },
+    "KC": {
+      "name": "Chiefs",
+      "city": "Kansas City",
+      "born_day": 5,
+      "life_path": 1,
+      "pinnacle": 5,
+      "animal": "Pig"
+    },
+    "LV": {
+      "name": "Raiders",
+      "city": "Las Vegas",
+      "born_day": 22,
+      "life_path": 9,
+      "pinnacle": 5,
+      "animal": "Pig"
+    },
+    "LAC": {
+      "name": "Chargers",
+      "city": "Los Angeles",
+      "born_day": 3,
+      "life_path": 5,
+      "pinnacle": 4,
+      "animal": "Monkey"
+    },
+    "LAR": {
+      "name": "Rams",
+      "city": "Los Angeles",
+      "born_day": 11,
+      "life_path": 7,
+      "pinnacle": 5,
+      "animal": "Rat"
+    },
+    "MIA": {
+      "name": "Dolphins",
+      "city": "Miami",
+      "born_day": 7,
+      "life_path": 9,
+      "pinnacle": 11,
+      "animal": "Snake"
+    },
+    "MIN": {
+      "name": "Vikings",
+      "city": "Minnesota",
+      "born_day": 1,
+      "life_path": 9,
+      "pinnacle": 8,
+      "animal": "Rat"
+    },
+    "NE": {
+      "name": "Patriots",
+      "city": "New England",
+      "born_day": 7,
+      "life_path": 6,
+      "pinnacle": 8,
+      "animal": "Pig"
+    },
+    "NO": {
+      "name": "Saints",
+      "city": "New Orleans",
+      "born_day": 1,
+      "life_path": 7,
+      "pinnacle": 33,
+      "animal": "Horse"
+    },
+    "NYG": {
+      "name": "Giants",
+      "city": "New York",
+      "born_day": 1,
+      "life_path": 8,
+      "pinnacle": 7,
+      "animal": "Ox"
+    },
+    "NYJ": {
+      "name": "Jets",
+      "city": "New York",
+      "born_day": 5,
+      "life_path": 1,
+      "pinnacle": 5,
+      "animal": "Pig"
+    },
+    "PHI": {
+      "name": "Eagles",
+      "city": "Philadelphia",
+      "born_day": 8,
+      "life_path": 4,
+      "pinnacle": 5,
+      "animal": "Rooster"
+    },
+    "PIT": {
+      "name": "Steelers",
+      "city": "Pittsburgh",
+      "born_day": 8,
+      "life_path": 4,
+      "pinnacle": 5,
+      "animal": "Rooster"
+    },
+    "SF": {
+      "name": "49ers",
+      "city": "San Francisco",
+      "born_day": 4,
+      "life_path": 1,
+      "pinnacle": 6,
+      "animal": "Monkey"
+    },
+    "SEA": {
+      "name": "Seahawks",
+      "city": "Seattle",
+      "born_day": 4,
+      "life_path": 4,
+      "pinnacle": 7,
+      "animal": "Tiger"
+    },
+    "TB": {
+      "name": "Buccaneers",
+      "city": "Tampa Bay",
+      "born_day": 6,
+      "life_path": 4,
+      "pinnacle": 9,
+      "animal": "Tiger"
+    },
+    "TEN": {
+      "name": "Titans",
+      "city": "Tennessee",
+      "born_day": 7,
+      "life_path": 4,
+      "pinnacle": 7,
+      "animal": "Tiger"
+    },
+    "WAS": {
+      "name": "Commanders",
+      "city": "Washington",
+      "born_day": 9,
+      "life_path": 4,
+      "pinnacle": 22,
+      "animal": "Monkey"
+    }
+  }
+}
