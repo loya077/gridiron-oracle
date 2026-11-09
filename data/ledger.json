@@ -3194,7 +3194,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "CIN 34, ATL 17"
     },
     "2026_09_CLE_NO": {
       "id": "2026_09_CLE_NO",
@@ -3218,7 +3220,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "loss",
+      "score": "CLE 22, NO 23"
     },
     "2026_09_DAL_IND": {
       "id": "2026_09_DAL_IND",
@@ -3242,7 +3246,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "DAL 27, IND 23"
     },
     "2026_09_DEN_CAR": {
       "id": "2026_09_DEN_CAR",
@@ -3266,7 +3272,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "DEN 26, CAR 21"
     },
     "2026_09_DET_MIA": {
       "id": "2026_09_DET_MIA",
@@ -3290,7 +3298,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "DET 19, MIA 9"
     },
     "2026_09_LA_WAS": {
       "id": "2026_09_LA_WAS",
@@ -3314,7 +3324,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "LAR 20, WAS 13"
     },
     "2026_09_NYG_PHI": {
       "id": "2026_09_NYG_PHI",
@@ -3338,7 +3350,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "NYG 19, PHI 11"
     },
     "2026_09_NYJ_KC": {
       "id": "2026_09_NYJ_KC",
@@ -3362,7 +3376,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "NYJ 12, KC 35"
     },
     "2026_09_HOU_LAC": {
       "id": "2026_09_HOU_LAC",
@@ -3386,7 +3402,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "HOU 44, LAC 22"
     },
     "2026_09_LV_SF": {
       "id": "2026_09_LV_SF",
@@ -3410,7 +3428,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "LV 17, SF 38"
     },
     "2026_09_ARI_SEA": {
       "id": "2026_09_ARI_SEA",
@@ -3434,7 +3454,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "ARI 3, SEA 17"
     },
     "2026_09_GB_NE": {
       "id": "2026_09_GB_NE",
@@ -3458,7 +3480,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "loss",
+      "score": "GB 45, NE 27"
     },
     "2026_09_TB_CHI": {
       "id": "2026_09_TB_CHI",
@@ -3482,7 +3506,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-08T10:33:50+00:00",
+      "outcome": "win",
+      "score": "TB 24, CHI 27"
     },
     "2026_09_BUF_MIN": {
       "id": "2026_09_BUF_MIN",
@@ -3506,8 +3532,8 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-08T10:33:50+00:00"
+      "saved_at": "2026-11-09T10:48:19+00:00"
     }
   },
-  "updated_at": "2026-11-08T10:33:50+00:00"
+  "updated_at": "2026-11-09T10:48:19+00:00"
 }
