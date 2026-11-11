@@ -3558,7 +3558,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_NE_DET": {
       "id": "2026_10_NE_DET",
@@ -3582,7 +3582,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_BUF_NYJ": {
       "id": "2026_10_BUF_NYJ",
@@ -3606,7 +3606,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_CAR_NO": {
       "id": "2026_10_CAR_NO",
@@ -3623,14 +3623,14 @@
       "readings": "favor",
       "readings_fav": "CAR",
       "est_spread": 1.15,
-      "market_spread": 1.5,
+      "market_spread": 2.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_HOU_CLE": {
       "id": "2026_10_HOU_CLE",
@@ -3654,7 +3654,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_JAX_TEN": {
       "id": "2026_10_JAX_TEN",
@@ -3678,7 +3678,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_KC_ATL": {
       "id": "2026_10_KC_ATL",
@@ -3702,7 +3702,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_MIA_IND": {
       "id": "2026_10_MIA_IND",
@@ -3719,14 +3719,14 @@
       "readings": "agree",
       "readings_fav": "IND",
       "est_spread": 2.1,
-      "market_spread": 2.5,
+      "market_spread": 3.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_MIN_GB": {
       "id": "2026_10_MIN_GB",
@@ -3743,14 +3743,14 @@
       "readings": "favor",
       "readings_fav": "MIN",
       "est_spread": 0.96,
-      "market_spread": 4.5,
+      "market_spread": 3.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_LA_ARI": {
       "id": "2026_10_LA_ARI",
@@ -3774,7 +3774,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_SEA_LV": {
       "id": "2026_10_SEA_LV",
@@ -3791,14 +3791,14 @@
       "readings": "agree",
       "readings_fav": "SEA",
       "est_spread": -8.51,
-      "market_spread": -3.5,
+      "market_spread": -6.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_SF_DAL": {
       "id": "2026_10_SF_DAL",
@@ -3822,7 +3822,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_PIT_CIN": {
       "id": "2026_10_PIT_CIN",
@@ -3846,7 +3846,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     },
     "2026_10_LAC_BAL": {
       "id": "2026_10_LAC_BAL",
@@ -3863,15 +3863,15 @@
       "readings": "favor",
       "readings_fav": "LAC",
       "est_spread": 5.8,
-      "market_spread": 5.5,
+      "market_spread": 4.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-10T10:47:23+00:00"
+      "saved_at": "2026-11-11T10:51:30+00:00"
     }
   },
-  "updated_at": "2026-11-10T10:47:23+00:00"
+  "updated_at": "2026-11-11T10:51:30+00:00"
 }
