@@ -107,7 +107,9 @@
     const isCur = season === S.app.current.season && week === S.app.current.week;
     let wins = 0, losses = 0;
     const cards = games.map(g => {
-      const ev = evalGame(g);
+      const ev0 = evalGame(g), led = S.ledger.picks[g.id];
+      const mine = led && led.source === "manual";
+      const ev = mine ? { ...ev0, pick: led.pick, conf: led.conf } : ev0;
       let res = "";
       if (played(g)) {
         const w = winner(g);
@@ -120,7 +122,7 @@
       return `<a class="card" href="#/g/${g.id}">
         <div class="when"><span>${kickoff(g)}</span><span>${g.neutral ? "Neutral site" : ""}</span></div>
         <div class="teams">${row(g.away, g.rec_away, g.away_score)}${row(g.home, g.rec_home, g.home_score)}</div>
-        <div class="pickline"><span class="lbl">Pick</span><span class="who">${ev.pick} ${esc(tname(ev.pick))}</span><span class="pct">${pct(ev.conf)}</span></div>
+        <div class="pickline"><span class="lbl">${mine ? "Your pick" : "Pick"}</span><span class="who">${ev.pick} ${esc(tname(ev.pick))}</span><span class="pct">${pct(ev.conf)}</span></div>
         <div class="bar"><span style="width:${(100 * ev.conf).toFixed(1)}%"></span></div>
         <div class="meta"><span>Model <b>${modelSpread(g)}</b></span>${mk ? `<span>Market <b>${mk}</b></span>` : `<span>Market —</span>`}${marketDisagrees(g, ev) ? `<span class="flag">⚑ Market picks ${g.spread_line > 0 ? g.home : g.away}</span>` : ""}</div>
         <div class="badges"><span class="rbadge">${badgeText(ev)}</span>${res}</div>
