@@ -57,8 +57,8 @@
   // ---------------------------------------------------------------- data
   async function load() {
     try {
-      const [a, l] = await Promise.all([fetch("data/app.json").then(r => { if (!r.ok) throw 0; return r.json(); }),
-        fetch("data/ledger.json").then(r => r.ok ? r.json() : { picks: {} }).catch(() => ({ picks: {} }))]);
+      const [a, l] = await Promise.all([fetch("data/app.json", { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.json(); }),
+        fetch("data/ledger.json", { cache: "no-store" }).then(r => r.ok ? r.json() : { picks: {} }).catch(() => ({ picks: {} }))]);
       S.app = a; S.ledger = l;
       a.games.forEach(g => (S.byId[g.id] = g));
       S.settings = Object.assign({}, a.settings);

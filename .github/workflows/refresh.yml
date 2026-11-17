@@ -57,6 +57,8 @@ jobs:
           mkdir -p _site/data
           cp web/* _site/
           cp data/app.json data/ledger.json _site/data/
+          v="${GITHUB_SHA::7}-$(date -u +%s)"
+          sed -i "s|href=\"style.css\"|href=\"style.css?v=$v\"|; s|src=\"app.js\"|src=\"app.js?v=$v\"|" _site/index.html
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
