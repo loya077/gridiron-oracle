@@ -3647,9 +3647,9 @@
       "gameday": "2026-11-15",
       "away": "HOU",
       "home": "CLE",
-      "pick": "HOU",
+      "pick": "CLE",
       "p_home": 0.409,
-      "conf": 0.591,
+      "conf": 0.409,
       "p_elo": 0.409,
       "o_diff": 1.25,
       "readings": "favor",
@@ -3661,10 +3661,11 @@
         "w_astro": 25,
         "w_num": 75
       },
-      "source": "live",
+      "source": "manual",
       "saved_at": "2026-11-15T10:36:15+00:00",
-      "outcome": "loss",
-      "score": "HOU 24, CLE 27"
+      "outcome": "win",
+      "score": "HOU 24, CLE 27",
+      "model_pick": "HOU"
     },
     "2026_10_JAX_TEN": {
       "id": "2026_10_JAX_TEN",
@@ -3751,9 +3752,9 @@
       "gameday": "2026-11-15",
       "away": "MIN",
       "home": "GB",
-      "pick": "GB",
+      "pick": "MIN",
       "p_home": 0.5345,
-      "conf": 0.5345,
+      "conf": 0.4655,
       "p_elo": 0.5345,
       "o_diff": -0.9375,
       "readings": "favor",
@@ -3765,10 +3766,11 @@
         "w_astro": 25,
         "w_num": 75
       },
-      "source": "live",
+      "source": "manual",
       "saved_at": "2026-11-15T10:36:15+00:00",
-      "outcome": "loss",
-      "score": "MIN 30, GB 10"
+      "outcome": "win",
+      "score": "MIN 30, GB 10",
+      "model_pick": "GB"
     },
     "2026_10_LA_ARI": {
       "id": "2026_10_LA_ARI",
@@ -3881,9 +3883,9 @@
       "gameday": "2026-11-16",
       "away": "LAC",
       "home": "BAL",
-      "pick": "BAL",
+      "pick": "LAC",
       "p_home": 0.6974,
-      "conf": 0.6974,
+      "conf": 0.3026,
       "p_elo": 0.6974,
       "o_diff": -1.875,
       "readings": "favor",
@@ -3895,10 +3897,11 @@
         "w_astro": 25,
         "w_num": 75
       },
-      "source": "live",
+      "source": "manual",
       "saved_at": "2026-11-16T11:09:28+00:00",
-      "outcome": "loss",
-      "score": "LAC 23, BAL 20"
+      "outcome": "win",
+      "score": "LAC 23, BAL 20",
+      "model_pick": "BAL"
     },
     "2026_11_IND_HOU": {
       "id": "2026_11_IND_HOU",
