@@ -3951,7 +3951,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "ARI 7, KC 34"
     },
     "2026_11_BAL_CAR": {
       "id": "2026_11_BAL_CAR",
@@ -3975,7 +3977,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "BAL 33, CAR 35"
     },
     "2026_11_JAX_NYG": {
       "id": "2026_11_JAX_NYG",
@@ -3999,7 +4003,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "loss",
+      "score": "JAX 18, NYG 23"
     },
     "2026_11_MIA_BUF": {
       "id": "2026_11_MIA_BUF",
@@ -4023,7 +4029,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "MIA 9, BUF 26"
     },
     "2026_11_NO_CHI": {
       "id": "2026_11_NO_CHI",
@@ -4047,7 +4055,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "NO 13, CHI 21"
     },
     "2026_11_TB_DET": {
       "id": "2026_11_TB_DET",
@@ -4071,7 +4081,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "TB 21, DET 31"
     },
     "2026_11_TEN_DAL": {
       "id": "2026_11_TEN_DAL",
@@ -4095,7 +4107,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "TEN 30, DAL 51"
     },
     "2026_11_NYJ_LAC": {
       "id": "2026_11_NYJ_LAC",
@@ -4119,7 +4133,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "loss",
+      "score": "NYJ 27, LAC 24"
     },
     "2026_11_LV_DEN": {
       "id": "2026_11_LV_DEN",
@@ -4143,7 +4159,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "LV 24, DEN 38"
     },
     "2026_11_PIT_PHI": {
       "id": "2026_11_PIT_PHI",
@@ -4167,7 +4185,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "loss",
+      "score": "PIT 16, PHI 19"
     },
     "2026_11_MIN_SF": {
       "id": "2026_11_MIN_SF",
@@ -4191,7 +4211,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-22T10:39:53+00:00",
+      "outcome": "win",
+      "score": "MIN 10, SF 35"
     },
     "2026_11_CIN_WAS": {
       "id": "2026_11_CIN_WAS",
@@ -4215,8 +4237,8 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-22T10:39:53+00:00"
+      "saved_at": "2026-11-23T10:57:44+00:00"
     }
   },
-  "updated_at": "2026-11-22T10:39:53+00:00"
+  "updated_at": "2026-11-23T10:57:44+00:00"
 }
