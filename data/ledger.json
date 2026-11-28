@@ -4367,7 +4367,9 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-27T10:48:54+00:00",
+      "outcome": "loss",
+      "score": "DEN 5, PIT 27"
     },
     "2026_12_ATL_MIN": {
       "id": "2026_12_ATL_MIN",
@@ -4391,7 +4393,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_BAL_HOU": {
       "id": "2026_12_BAL_HOU",
@@ -4415,7 +4417,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_NO_CIN": {
       "id": "2026_12_NO_CIN",
@@ -4432,14 +4434,14 @@
       "readings": "favor",
       "readings_fav": "NO",
       "est_spread": 10.11,
-      "market_spread": 10.0,
+      "market_spread": 9.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_NYG_IND": {
       "id": "2026_12_NYG_IND",
@@ -4456,14 +4458,14 @@
       "readings": "agree",
       "readings_fav": "NYG",
       "est_spread": -4.66,
-      "market_spread": -6.0,
+      "market_spread": -5.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_NYJ_MIA": {
       "id": "2026_12_NYJ_MIA",
@@ -4487,7 +4489,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_TEN_JAX": {
       "id": "2026_12_TEN_JAX",
@@ -4504,14 +4506,14 @@
       "readings": "favor",
       "readings_fav": "TEN",
       "est_spread": 15.98,
-      "market_spread": 14.5,
+      "market_spread": 14.0,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_NE_LAC": {
       "id": "2026_12_NE_LAC",
@@ -4528,14 +4530,14 @@
       "readings": "agree",
       "readings_fav": "NE",
       "est_spread": -6.15,
-      "market_spread": -2.5,
+      "market_spread": -3.0,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_SEA_SF": {
       "id": "2026_12_SEA_SF",
@@ -4552,14 +4554,14 @@
       "readings": "favor",
       "readings_fav": "SEA",
       "est_spread": 2.86,
-      "market_spread": 3.0,
+      "market_spread": -1.5,
       "settings": {
         "influence": 0,
         "w_astro": 25,
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_WAS_ARI": {
       "id": "2026_12_WAS_ARI",
@@ -4583,7 +4585,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_LV_CLE": {
       "id": "2026_12_LV_CLE",
@@ -4607,7 +4609,7 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     },
     "2026_12_CAR_TB": {
       "id": "2026_12_CAR_TB",
@@ -4631,8 +4633,8 @@
         "w_num": 75
       },
       "source": "live",
-      "saved_at": "2026-11-27T10:48:54+00:00"
+      "saved_at": "2026-11-28T10:44:30+00:00"
     }
   },
-  "updated_at": "2026-11-27T10:48:54+00:00"
+  "updated_at": "2026-11-28T10:44:30+00:00"
 }
